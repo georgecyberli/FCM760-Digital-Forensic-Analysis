@@ -1,7 +1,7 @@
 # Digital Forensic Analysis – Management of Digital Evidence Course
 
 ## 📌 Course Overview
-This repository contains my **final forensic case analysis** for the *Forensics Management of Digital Evidence* course.  
+This repository contains my **final forensic case analysis** for the *Forensics Management of Digital Evidence* course (FCM 760).  
 The project simulates a **real-world law enforcement digital forensic investigation**, emphasizing **proper evidence handling, documentation, analysis methodology, and reporting**.
 
 All work was conducted following **forensic best practices**, maintaining evidence integrity, chain of custody, and reproducibility.
