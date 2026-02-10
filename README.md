@@ -89,12 +89,6 @@ All analysis was conducted on **forensic copies only**, never original evidence.
 
 └── Final_Forensic_Report.pdf
 
-📁 Electronic_Reports/
-
-├── Evidence_1_Report.html
-
-└── Evidence_2_Report.html
-
 
 ## 📑 Key Forensic Questions Addressed
 - File system and partition identification  
