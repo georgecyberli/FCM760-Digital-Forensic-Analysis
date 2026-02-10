@@ -7,6 +7,15 @@ The project simulates a **real-world law enforcement digital forensic investigat
 All work was conducted following **forensic best practices**, maintaining evidence integrity, chain of custody, and reproducibility.
 
 
+## 🚀 Achievements / Skill Demonstrated
+- Digital Evidence Handling & Chain of Custody
+- Forensic Imaging & Hash Verification
+- Disk & File System Analysis
+- Artifact Correlation Across Devices
+- DFIR Reporting & Documentation
+- Legal & Ethical Considerations in Digital Forensics
+
+
 ## 🕵️ Case Scenario Summary
 
 ### Evidence 1 – Desktop Computer
@@ -20,6 +29,7 @@ The device was vouchered as **Investigatory Evidence**, and a **bit-by-bit foren
 - Locating and analyzing image files
 - Identifying potential personal identifiers of the original owner
 
+---
 
 ### Evidence 2 – Removable Media (USB Thumb Drive)
 Following analysis of Evidence 1, a **search warrant** led to the seizure of additional digital media.
@@ -90,8 +100,10 @@ These practices ensure findings are **legally defensible and repeatable**.
 
 
 ## 🎓 Academic Disclaimer
-This repository was created **solely for educational purposes** as part of a university forensic investigation course.  
+This repository was created **solely for educational purposes** as part of a university forensic investigation course.
 All scenarios, evidence, and reports are part of a **controlled academic exercise**.
+
+The dates on the forms have been **intentionally adjusted**, as the evidence originated from events that occurred many years ago.
 
 
 
