@@ -40,6 +40,23 @@ Following analysis of Evidence 1, a **search warrant** led to the seizure of add
 - Establishing a linkage between users across evidence sources
 - Reporting findings in a concise forensic summary
 
+## 🧩 Forensic Workflow Diagram
+
+```mermaid
+flowchart TD
+    A[Evidence Intake] --> B[Evidence Inventory & Labeling]
+    
+    subgraph Integrity_Controls["Integrity Controls"]
+        C[Chain of Custody Documentation] --> D[Forensic Imaging] --> E[Hash Verification]
+    end
+
+    B --> C
+    E --> F[Forensic Analysis]
+    F --> G[Artifact Identification]
+    G --> H[Correlation Across Evidence]
+    H --> I[Reporting & Findings]
+    I --> J[Evidence Storage & Case Closure]
+```
 
 ## 🧪 Tools & Techniques Used
 - **FTK Imager** – Evidence verification and hash validation  
