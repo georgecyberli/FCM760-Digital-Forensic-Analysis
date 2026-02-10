@@ -61,7 +61,7 @@ flowchart TD
 ## 🧪 Tools & Techniques Used
 - **FTK Imager** – Evidence verification and hash validation  
 - **Autopsy (Sleuth Kit)** – File system, timeline, and artifact analysis  
-- **Standard Forensic Forms** – Evidence intake, inventory, and chain of custody  
+- **Standard Forensic Forms** – Incident response, evidence intake (inventory), and chain of custody  
 - **Hash Verification** – Ensuring integrity of forensic images  
 
 All analysis was conducted on **forensic copies only**, never original evidence.
